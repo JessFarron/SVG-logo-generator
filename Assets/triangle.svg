@@ -1,0 +1,7 @@
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg" >
+
+<polygon height="100%" width="100%" points="0,230 290,200 150,0" fill="pink"/>
+
+<text x="150" y="140" font-size="60" text-anchor="middle" fill="red">JSC</text>
+
+</svg>
