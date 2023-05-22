@@ -110,7 +110,7 @@ async function init() {
 	console.log(`This were your choices: \n LETTERS - ${user_text}  FONT COLOR - ${user_font_color} \n SHAPE - ${user_shape_type}  SHAPE COLOR - ${user_shape_color} \n\n`);
 	
 	//Print shape to log 
-	console.log("Displaying shape:\n\n" + svgString);
+	// console.log("Displaying shape:\n\n" + svgString);
 	//document.getElementById("svg_image").innerHTML = svgString;
 
 	console.log("Shape generation complete!");
