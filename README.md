@@ -38,7 +38,7 @@ This is a Node.js command-line application that allows you to generate a logo an
 To see a demonstration of the functionality of this application, please watch the following walkthrough video: Logo Generator Walkthrough.
 [SVG_LogoFunc.webm](https://github.com/JessFarron/SVG-logo-generator/assets/126412050/7cabbfd3-5e47-4592-874d-b7cd42605dcf)
 
-### Test video
+## Test video
 [SVG_Logo_Test.webm](https://github.com/JessFarron/SVG-logo-generator/assets/126412050/760c98d8-6232-4f94-922f-2d8bbfa628d2)
 
 
